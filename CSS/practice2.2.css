@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+body{
+    background-color: rgb(22, 22, 53);
+
+}
+
+nav{
+    height: 60px;
+    background-color:#0f1111 ;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+/* nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul{
+    padding: 0px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding:0px ;
+    
+    padding: 5px 200px 0px 0px;
+}
+#first a{
+    color: #f08804;
+    font: bold;
+}
+button{
+    background-color: #f08804;
+}
+input{
+    width: 130px;
+} */
+
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+}
+a{
+    padding-right: 200px;
+}
