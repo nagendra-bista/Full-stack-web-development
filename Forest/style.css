@@ -373,7 +373,7 @@
 /* Second image */
 .main{
     height: 105vh;
-    background-image: url(image2.jpg);
+    background-image: url(/Images/image2.jpg);
     background-size: cover;
     /* position: relative; */
     margin-top: 150px;
@@ -520,7 +520,7 @@
 }
 /* Left album photos */
 .left-album .left-album-1{
-    background-image: url(image1.jpg);
+    background-image: url(Images/image1.jpg);
     height: 450px;
     width: 100%;
 
@@ -536,17 +536,17 @@
     padding: 0 15px;
 }
 .left-album .left-album-2{
-    background-image: url(image5.jpg);
+    background-image: url(Images/image5.jpg);
 }
 .left-album .left-album-3{
-    background-color: black;
-    background-image: url(image6.jpg);
+    /* background-color: black; */
+    background-image: url(Images/image6.jpg);
 }
 .left-album .left-album-4{
     height: 450px;
     width: 100%;
     margin-top: 20px;
-    background-image: url(image9.jpg);
+    background-image: url(Images/image9.jpg);
 }
 
 /* Right Album photos */
@@ -562,12 +562,12 @@
 }
 .two-images .right-album-1{
     /* background-color: #000000; */
-    background-image: url(image3.jpg);
+    background-image: url(Images/image3.jpg);
     object-fit: contain;
     background-repeat: no-repeat;
 }
 .two-images .right-album-2{
-    background-image: url(image4.jpg);
+    background-image: url(Images/image4.jpg);
     object-fit: cover;
 }
 .right-album .album3and4{
@@ -581,16 +581,16 @@
     padding: 0 15px;
 }
 .album3and4 .right-album-3{
-    background-image: url(image3.jpg);
+    background-image: url(Images/image3.jpg);
 }
 .album3and4 .right-album-4{
-    background-image: url(image8.jpg);
+    background-image: url(Images/image8.jpg);
 }
 .right-album .right-album-5{
     height: 450px;
     width: 100%;
     margin-top: 20px;
-    background-image: url(image10.jpg);
+    background-image: url(Images/image10.jpg);
     object-fit: cover;
 }
 
